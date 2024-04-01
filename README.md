@@ -1,16 +1,5 @@
-# Toyota Supra Responsive Showcase Page
+<h1>Bootsrap Web Site</h1>
 
-- This project includes a responsive showcase page for Toyota Supra created using the Bootstrap framework. The page is designed to adapt to different screen sizes and highlights the prominent features of the Toyota Supra.
+<h2>Bu HTML belgesi, Ford Mustang hakkında bir web sayfasını temsil ediyor. Sayfa, gezinme çubuğu, slayt gösterisi, kartlar, yorumlar, ziyaretçi tablosu, iletişim bilgileri ve iletişim formu gibi bileşenler içeriyor. Bu bileşenler, kullanıcıların Mustang hakkında bilgi edinmelerini ve iletişim kurmalarını sağlamak için tasarlanmıştır.</h2>
 
-## How to Run
-- You can run the project by cloning it to your computer or downloading the ZIP file and following these steps:
-
-1. Clone the repository to your computer: 'git clone https://github.com/username/trendyol-like-site.git' 
-2. Navigate to the project directory: 'cd trendyol-like-site'
-3. Open the 'index.html' file in a web browser.
-
-
-## GIF 
-<img src="g1.gif"/>
-
-# Bootsrap-Website
+![](website.gif)
